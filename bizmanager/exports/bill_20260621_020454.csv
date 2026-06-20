@@ -1,0 +1,14 @@
+Invoice,INV-20260621-0001
+Customer,Kishore
+Phone,8220356747
+Email,ramyasridhhanam@gmail.com
+GST,234567
+Address,3/24A MuthuNagar
+
+SNO,Product,Qty,Unit,Price,Amount
+1,Tomato,1.0,kg,35.0,35.0
+
+Subtotal,₹35.00
+Discount,₹0.00
+Tax,₹6.30
+Grand Total,₹41.30
